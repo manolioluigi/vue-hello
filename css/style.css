@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(57, 62, 70);
+}
+
+.background-card{
+    background-color: rgb(109, 152, 134);
+    box-shadow: 10px 10px 20px 4px #333333;
+}
+
+.color-h1{
+    color: rgb(242, 231, 213);
+}
+
+.color-blue{
+    color: rgb(57, 62, 70);
+}
+
+h2{
+    color: rgb(247, 247, 247);
+}
+
+h1{
+    font-size: 20px;
+}
+
+.padding-10{
+    padding: 10px;
+}
+
+.height-full{
+    height: 100vh;
+}
